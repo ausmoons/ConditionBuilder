@@ -1,9 +1,9 @@
 ## How to run this project
 
-Open KPIBerry folder and run "venv/Scripts/activate", after run "flask run"
+Run "venv/Scripts/activate", after run "flask run"
 It will run on http://localhost:5000.
 
-In KPIBerry folder open Frontend. Run "npm run start"
+Open Frontend folder. Run "npm run start"
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
