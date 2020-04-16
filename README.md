@@ -10,7 +10,7 @@ Open Frontend folder. Run "npm run start"
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
-##Functionality
+## Functionality
 
 You can add subjects by using condition buidler in "Condition builder" and see all made subjects in "All subjects".
 
@@ -28,7 +28,7 @@ Frontend is made using React and ant design
 Backend is made using Python/Flask and Python SQL toolkit - SQLAlchemy.
 
 
-##What could be improved: 
+## What could be improved: 
 
 1.In condition builder you can add several times the same category, but it will save only the last one. 
 It would be better to hide or disable condition after it already has a value.
@@ -44,10 +44,8 @@ Because of lack of time, I was not able to avoid this issue.
 
 5.By default subject accepts marketing is false, it should be left empty.
 
-##Something more that you should know
+## Something more that you should know
 
 Retrieving enum values (gender, languages, channel) for use in UI - I do not retrieve enum values,
 but I retrieve an object from backend where I have defined gender, language and channel values and titles. 
 Object is used in config for condition builder.
-
-ps.As in an instruction it was written to save README as txt I did it, otherwise I would have created it as md.
