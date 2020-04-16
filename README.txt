@@ -1,3 +1,6 @@
+![](https://j.gifs.com/lxNKZ1.gif)
+
+
 ## How to run this project
 
 Run "venv/Scripts/activate", after run "flask run"
